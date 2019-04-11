@@ -1,0 +1,14 @@
+F:\work_space\c#\socket\socket\socket\bin\Debug\socket.exe.config
+F:\work_space\c#\socket\socket\socket\bin\Debug\socket.exe
+F:\work_space\c#\socket\socket\socket\bin\Debug\socket.pdb
+F:\work_space\c#\socket\socket\socket\obj\Debug\socket.csprojAssemblyReference.cache
+F:\work_space\c#\socket\socket\socket\obj\Debug\socket.Properties.Resources.resources
+F:\work_space\c#\socket\socket\socket\obj\Debug\socket.csproj.GenerateResource.cache
+F:\work_space\c#\socket\socket\socket\obj\Debug\socket.csproj.CoreCompileInputs.cache
+F:\work_space\c#\socket\socket\socket\obj\Debug\socket.exe
+F:\work_space\c#\socket\socket\socket\obj\Debug\socket.pdb
+F:\work_space\c#\socket\socket\socket\obj\Debug\socket.MainForm.resources
+F:\work_space\c#\socket\socket\socket\bin\Debug\Newtonsoft.Json.dll
+F:\work_space\c#\socket\socket\socket\bin\Debug\Newtonsoft.Json.pdb
+F:\work_space\c#\socket\socket\socket\bin\Debug\Newtonsoft.Json.xml
+F:\work_space\c#\socket\socket\socket\obj\Debug\socket.csproj.CopyComplete
